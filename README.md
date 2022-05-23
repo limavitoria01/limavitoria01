@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @limavitoria01    
-- 👀 I’m interested in  aprender novas linguagens
+- 👋 ola,meu nome é @limavitoria01    
+- 👀 estou interessado em aprender novas linguagens
 - 🌱 atualmete estou aprende a programr recentimente
-- 💞️  estou colabora em aprender 
+- 💞️  estou colaborando em aprender 
 - 📫 meu email:vitoria.arcanjo@escola.pr.gov.br
 
 <!---
