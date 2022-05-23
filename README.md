@@ -1,7 +1,7 @@
 - 👋 ola,meu nome é @limavitoria01    
 - 👀 estou interessado em aprender novas linguagens
 - 🌱 atualmete estou aprende a programr recentimente
-- 💞️  estou colaborando em aprender 
+- 💞️ eu estou aprendendo a programar nas plataforma javascrist scratch
 - 📫 meu email:vitoria.arcanjo@escola.pr.gov.br
 
 <!---
